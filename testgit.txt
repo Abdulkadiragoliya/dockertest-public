@@ -1,0 +1,70 @@
+-Motorspot     48 Product
+-Motorspot     48 Product
+	- Sallon   
+	   - required    3 Product  
+	      - 6 point
+		      -  Entry level
+			  -  Superlite
+			  -  Ultralite
+	   - Not      9 Product
+	       - 4 point
+		      -  Entry level
+			  -  Superlite
+			  -  Ultralite
+		   - 6 point
+		      -  Entry level
+			  -  Superlite
+			  -  Ultralite
+	- Sports Proto
+		   - required    3 Product   
+			  - 6 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+		  - Not    9 Product
+			   - 4 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+			   - 6 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+	- Single seater
+		   - required      3 Product 
+			  - 6 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+		  - Not 9 Product
+			   - 4 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+			   - 6 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+
+	- Lotus 7 type cars
+		   - required      3 Product 
+			  - 6 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+		  - Not 9 Product
+			   - 4 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+			   - 6 point
+				  -  Entry level
+				  -  Superlite
+				  -  Ultralite
+				 		  
+- Road     12 product
+
+- off Road 12 product
+
+- Other   15 products
+ 
